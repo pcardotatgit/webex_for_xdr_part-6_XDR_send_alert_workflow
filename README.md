@@ -1,6 +1,5 @@
 ---
 title: XDR_ALERT_CARD_WITH_TARGETS_AND_OBSERVABLES_TO_WEBEX_ROOM
-purpose: Proof of concept of interaction with a network device
 integrated products: Webex
 ---
 
@@ -68,7 +67,7 @@ No output variables
 
 ## Installation and Configuration
 
-* Import the workflow
+* Import the **XDR_ALERT_CARD_WITH_TARGETS_AND_OBSERVABLES_TO_WEBEX_ROOM.json** workflow into your XDR tenant
 * Assign correct values to the XDR_ALERT_BOT_ROOM_ID and XDR_ALERT_BOT_TOKEN
 * You can run the workflow
 
