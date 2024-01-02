@@ -98,7 +98,7 @@ Go to the next section
 
 The all in one Use case 
 
-UNDER CONSTRUCTION
+[Webex for XDR demo part 7 - the final demo](https://github.com/pcardotatgit/webex_for_xdr_part-7_The_final_demo)
 
 Go back to the previous section 
 
