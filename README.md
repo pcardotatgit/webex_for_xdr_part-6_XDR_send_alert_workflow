@@ -32,6 +32,7 @@ That means that any parsing and formating operation must have been done before t
 | Date | Notes |
 |:-----|:------|
 | December 7, 2023 | - Initial release |
+| January 16, 2024 | - Adding Isolation and Enforcement Point Selection |
 
 ---
 
