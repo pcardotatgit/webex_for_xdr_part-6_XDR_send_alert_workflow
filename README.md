@@ -40,6 +40,8 @@ That means that any parsing and formating operation must have been done before t
 
 This workflow requires that an alert Webex bot with a room to interact with, had been setup
 
+Instructions for creating a Webex Bot for XDR Alert can be found [here](https://github.com/pcardotatgit/Create_a_Webex_bot_for_XDR_Alerts)
+
 ## Input Variables
 
 - target_list ( text variable with one observable per line )
