@@ -97,9 +97,11 @@ No output variables
 
 # Where to go Next
 
-Go to the next section 
+Go to the following Section :
 
-The all in one Use case 
+The [Send_XDR_Alert_to_every_Security_Operators](https://github.com/pcardotatgit/XDR_Workflows_and_Stuffs/tree/master/500-SecureX_Workflow_examples/Workflows/XDR_Send_XDR_Alert_to_every_Security_Operators_PROD) send exactly the same Alert but the destination differ.  Instead of sending the alert to a Webex alert Room, the alert is sent to a list of Security Operators that are in conversation with the XDR Alert Bot. 
+
+And then go the all in one Use case wich show a complete example of this alerting capability with demo. 
 
 [Webex for XDR demo part 7 - the final demo](https://github.com/pcardotatgit/webex_for_xdr_part-7_The_final_demo)
 
