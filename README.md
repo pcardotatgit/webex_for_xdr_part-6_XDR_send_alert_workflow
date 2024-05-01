@@ -108,3 +108,10 @@ And then go the all in one Use case which show a complete example of this alerti
 Go back to the previous section 
 
 [webex_for_xdr_part-5_websocket](https://github.com/pcardotatgit/webex_for_xdr_part-5_websocket)
+
+
+## If I don't go to the final demo... What can I learn more ?
+
+Connect AI to the Webex Bot !?   And talk with my Bot  ? Yeah !!
+
+[ Let's go to this ](https://github.com/pcardotatgit/chatGPT_Webex_BOT)
